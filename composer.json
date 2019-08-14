@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/enhanced_defaultsearch",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "Enhanced Default Search for Magento. It helps to improve your magento store search results and return more relevant result againt your search query.",
+    "authors": [
+    {
+        "name": "magecoders",
+        "email": "rahil28288@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

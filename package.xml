@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package>
+    <name>enhanced_defaultsearch</name>
+    <version>1.0.1</version>
+    <stability>stable</stability>
+    <license uri="http://www.opensource.org/licenses/osl-3.0.php">OSL v3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Enhanced Default Search for Magento. It helps to improve your magento store search results and return more relevant result againt your search query.</summary>
+    <description>Enhanced Default Search for Magento. It helps to improve your magento store search results and return more relevant result againt your search query.&#xD;
+This will help to fix following issue :&#xD;
+-  Magento Default Search Issue&#xD;
+-  Default Search Magento&#xD;
+-  Improve Magento Search&#xD;
+-  Enhance default search magento</description>
+    <notes>More optimized search </notes>
+    <authors><author><name>magecoders</name><user>magecoders</user><email>rahil28288@gmail.com</email></author></authors>
+    <date>2013-05-20</date>
+    <time>10:23:02</time>
+    <contents><target name="mageetc"><dir name="modules"><file name="MageCoders_DefaultSearch.xml" hash="1e7f12fb79d2b3bf949d123a69f73785"/></dir></target><target name="magecommunity"><dir name="MageCoders"><dir name="DefaultSearch"><dir name="Helper"><file name="Data.php" hash="4c387cd383da2202e54ed0cdf592d169"/></dir><dir name="Model"><dir name="Mysql4"><file name="Fulltext.php" hash="fece2ded01899b039e350779b9637b6b"/></dir><dir name="Resource"><file name="Fulltext.php" hash="55fc992ac7bd1bb6c13f85cd96fa9160"/></dir></dir><dir name="etc"><file name="config.xml" hash="9e1ff61355facc8b968e218b0956d860"/></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
