@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Enhanced Default Search for Magento. It helps to improve your magento store search results and return more relevant result againt your search query.
